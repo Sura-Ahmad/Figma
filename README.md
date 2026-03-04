@@ -16,3 +16,6 @@ Key Features:
 3-Delivery scheduling
 4-Order tracking
 5-Milk-based recipes and dairy meal ideas
+
+To view the full interactive design, please click the following link:
+
